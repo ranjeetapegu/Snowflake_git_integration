@@ -1,0 +1,1 @@
+This project is to git integragration with snowflake and version controlling
